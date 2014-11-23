@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## there are 2 functions, one that creates the objetcs (matrix and function to inverse and cache that inverse
+## and the other one to process those objetcs and display the 
 
 ## function to create the object matrix
 
